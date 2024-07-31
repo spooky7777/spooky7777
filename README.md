@@ -20,7 +20,7 @@
 
 ## My Projects
 
-| Project                                        
+| Projects                                      
 |-----------------------------------------------
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
