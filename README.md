@@ -18,13 +18,13 @@
 
 
 
-## Skills
+## My Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Project                                        
+|-----------------------------------------------
+| SIEM Implementation and Log Analysis          
+| Network Traffic Monitoring and Attack Detection 
+| Security Automation with Shuffle SOAR         
 
 
 ## Tools
