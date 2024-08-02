@@ -22,7 +22,7 @@
 
 | Projects                                      
 |-----------------------------------------------
-| Basic Home Lab Running Active Directory with added Users                 
+| Basic Home Lab Running Active Directory with Added Users                 
 
 
 ## Tools
