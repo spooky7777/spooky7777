@@ -22,9 +22,7 @@
 
 | Projects                                      
 |-----------------------------------------------
-| SIEM Implementation and Log Analysis          
-| Network Traffic Monitoring and Attack Detection 
-| Security Automation with Shuffle SOAR         
+| Basic Home Lab Running Active Directory with added Users                 
 
 
 ## Tools
