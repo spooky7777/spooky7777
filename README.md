@@ -9,9 +9,9 @@
 
 
 
-
 # Hello! I'm Keshav Puri
-<a href="www.linkedin.com/in/keshav-puri-42b6a8319"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/keshav-puri-42b6a8319" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
  I am a Cybersecurity Student at Purdue University. I have the CompTIA Security+ and the Google Cybersecurity Specialization, and my technical expertise includes network security, cloud computing, and more.
